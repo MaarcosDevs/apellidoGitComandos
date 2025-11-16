@@ -1,3 +1,3 @@
 1.mkdir examen examen/una examen/dos examen/tres
 2.touch una/nombre.txt
-3 cp ../una/nombre.txt ../tres/
+3 cp ../una/nombre.txt ../tres/ 
